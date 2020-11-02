@@ -84,7 +84,7 @@ testimonial:
   testimonial_item:
   - name: Jetnipat
     designation: Developer
-    image: ''
+    image: "/images/cheer-1.jpg"
     content: Shop for the latest men's fashions online and find everyday essentials
       in wardrobe, such as basic short-sleeved t-shirts and jeans.
   - name: Thodsapon
