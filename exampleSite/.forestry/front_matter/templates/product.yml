@@ -27,6 +27,7 @@ fields:
   name: sizes
   label: sizes
 pages:
+- exampleSite/content/english/products/corduroy-shirt-regular-fit.md
 - exampleSite/content/english/products/cotton-flannel-shirt.md
 - exampleSite/content/english/products/easy-iron-shirt-slim-fit.md
 - exampleSite/content/english/products/oxford-shirt-regular-fit.md
