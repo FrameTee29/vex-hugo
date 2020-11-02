@@ -82,6 +82,17 @@ testimonial:
   enable: true
   title: Watch Review
   testimonial_item:
+  - name: ''
+    designation: ''
+    image: ''
+    content: ''
+  - name: Thanapol
+    designation: Marketing
+    content: Look clean and sharp for the office or get a stylish casual look for
+      the weekend in one of our shirts for men. Find our men's shirts in different
+      material, from cotton, easy-iron fabric to linen shirts in various colors and
+      prints. Layer up on colder days with a chic trench coat or jacket from our online
+      selection.
   - name: Teeraphat
     designation: CEO
     image: images/avater.png
