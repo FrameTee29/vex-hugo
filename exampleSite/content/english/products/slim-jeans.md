@@ -5,7 +5,7 @@ description = "this is meta"
 discount_price = "25.63"
 images = ["/images/slim-jeans-light-denim-blue.jpg", "/images/slim-jeans-grey.jpg", "/images/slim-jeans-dark-grey.jpg", "/images/slim-jeans-dark-denim-blue.jpg", "/images/slim-jeans-black.jpg"]
 price = "30"
-sizes = ["S", "M", "L", "XL"]
+sizes = ["28/30", "29/30", "30/30", "31/30", "32/30", "33/30", "34/30", "36/30"]
 title = "Slim Jeans"
 
 +++
