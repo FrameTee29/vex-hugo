@@ -48,13 +48,14 @@ promo:
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: Why Choose SANDBOX
   items:
-  - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+  - image: "/images/f1b0d0f5c52120ef0555d88fff75459f4e78fcf0_xxl-1.jpg"
+    title: Easy-iron Shirt Slim Fit
+    content: Shirt in woven fabric with an easy-iron finish. Turn-down collar, classic
+      front and darts and a yoke at the back. Long sleeves, narrow cuffs with adjustable
+      buttoning, and a rounded hem. Slim Fit – a fit with narrow shoulders and a tapered
+      waist for a fitted silhouette.
     button:
       enable: false
       label: Check Features
