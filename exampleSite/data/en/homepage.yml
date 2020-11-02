@@ -82,10 +82,12 @@ testimonial:
   enable: true
   title: Watch Review
   testimonial_item:
-  - name: ''
-    designation: ''
+  - name: Thodsapon
+    designation: Developer
     image: ''
-    content: ''
+    content: Looks clean and sharp for the office. Men's shirts in different materials,
+      from cotton and ironed fabrics to linen shirts of various colors and prints.
+      Layer up on colder days with a stylish coat, trench coat or jacket.
   - name: Thanapol
     designation: Marketing
     content: Look clean and sharp for the office or get a stylish casual look for
