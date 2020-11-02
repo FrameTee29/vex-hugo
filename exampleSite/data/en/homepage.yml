@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Believe in Fashion Make the change
   content: ''
-  image: images/watch.png
+  image: "/images/42a9305472c47650821b0ffedc41828c9cdaf9b5_xxl-1.jpg"
   button:
     enable: true
     label: Browse All Products
