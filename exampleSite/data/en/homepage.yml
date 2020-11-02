@@ -88,17 +88,17 @@ testimonial:
     content: Update your everyday look with trendy men's t-shirts and vests from online
       collections. You can choose from different styles such as t-shirts, polo shirts,
       and a slim or regular fit depending on the style.
-  - name: Jetnipat
-    designation: Developer
-    image: "/images/cheer-1.jpg"
-    content: Shop for the latest men's fashions online and find everyday essentials
-      in wardrobe, such as basic short-sleeved t-shirts and jeans.
   - name: Thodsapon
     designation: Developer
     image: "/images/benz-1.jpg"
     content: Looks clean and sharp for the office. Men's shirts in different materials,
       from cotton and ironed fabrics to linen shirts of various colors and prints.
       Layer up on colder days with a stylish coat, trench coat or jacket.
+  - name: Jetnipat
+    designation: Developer
+    image: "/images/cheer-1.jpg"
+    content: Shop for the latest men's fashions online and find everyday essentials
+      in wardrobe, such as basic short-sleeved t-shirts and jeans.
   - name: Thanapol
     designation: Marketing
     content: Look clean and sharp for the office or get a stylish casual look for
