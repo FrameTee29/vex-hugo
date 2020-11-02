@@ -82,6 +82,11 @@ testimonial:
   enable: true
   title: Watch Review
   testimonial_item:
+  - name: Jetnipat
+    designation: Developer
+    image: ''
+    content: Shop for the latest men's fashions online and find everyday essentials
+      in wardrobe, such as basic short-sleeved t-shirts and jeans.
   - name: Thodsapon
     designation: Developer
     image: ''
