@@ -9,3 +9,4 @@ sizes = ["S", "M", "L", "XL"]
 title = "Regular Jeans"
 
 +++
+5-pocket jeans in washed, stretch denim with a regular waist, zip fly and button and gently tapered legs with good room for movement over the thighs and knees.
